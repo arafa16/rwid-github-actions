@@ -7,6 +7,7 @@ All notable changes to `RWID GitHub Actions` will be documented in this file.
 ## [1.3.0](https://github.com/arafa16/rwid-github-actions/releases/tag/1.3.0) - 2025-04-03
 
 - feat: use express library to create rest api by [@arafa16](https://github.com/arafa16) in [#a823aa8](https://github.com/arafa16/rwid-github-actions/commit/a823aa83d46fa6ffc691d3478eec4eb695572a9f).
+- build: bump version 1.3.0 by [@arafa16](https://github.com/arafa16) in [#caa9a6e](https://github.com/arafa16/rwid-github-actions/commit/caa9a6eb0ca7412a044180d22bd1e33f70d19c84).
 
 ## [1.2.0](https://github.com/arafa16/rwid-github-actions/releases/tag/1.2.0) - 2025-04-02
 
