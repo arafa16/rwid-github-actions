@@ -1,6 +1,6 @@
 {
   "name": "@arafa16/rwid-github-actions",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "type": "module",
   "description": "Learn CI/CD on GitHub Action useing Typescript",

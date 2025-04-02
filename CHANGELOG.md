@@ -2,7 +2,11 @@
 
 All notable changes to `RWID GitHub Actions` will be documented in this file.
 
-## [Unreleased](https://github.com/arafa16/rwid-github-actions/compare/1.0.0...main)
+## [Unreleased](https://github.com/arafa16/rwid-github-actions/compare/1.1.1...main)
+
+## [1.1.1](https://github.com/arafa16/rwid-github-actions/releases/tag/1.1.1) - 2025-04-02
+
+- Initial commit by [@arafa16](https://github.com/arafa16) in [#192b397](https://github.com/arafa16/rwid-github-actions/commit/192b39782290ca355e130f992139da951a980521).
 
 ## [1.1.0](https://github.com/arafa16/rwid-github-actions/releases/tag/1.1.0) - 2025-04-02
 
