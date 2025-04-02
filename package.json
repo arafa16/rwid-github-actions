@@ -6,7 +6,7 @@
   "description": "Learn CI/CD on GitHub Action useing Typescript",
   "engineStrict": true,
   "engines": {
-    "node": "v18.16.0"
+    "node": "v22.11.0"
   },
   "main": "index.js",
   "scripts": {
