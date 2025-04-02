@@ -10,5 +10,3 @@ export function arraySum(numbers: Array<number>) : number {
 
     return sum;
 }
-
-console.log(arraySum([1,2,3,4,5]))
