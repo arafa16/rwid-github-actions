@@ -1,0 +1,49 @@
+{
+  "name": "@arafa16/rwid-github-actions",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Learn CI/CD on GitHub Action useing Typescript",
+  "engineStrict": true,
+  "engines": {
+    "node": "v18.16.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "CI/CD",
+    "GitHub Actions"
+  ],
+  "author": {
+    "name": "Ara Fa Adri",
+    "email": "arafa.ocs@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arafa16/rwid-github-actions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arafa16/rwid-github-actions/issues"
+  },
+  "homepage": "https://github.com/arafa16/rwid-github-actions.git#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-typescript": "^7.26.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.10",
+    "@typescript-eslint/eslint-plugin": "^8.26.1",
+    "@typescript-eslint/parser": "^8.26.1",
+    "eslint": "^9.22.0",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-jest": "^28.11.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.5.3",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
