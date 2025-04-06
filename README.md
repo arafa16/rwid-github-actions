@@ -3,7 +3,7 @@
 [![License](https://badgen.net/github/license/arafa16/rwid-github-actions "License")](LICENSE.md)
 [![Release](https://badgen.net/github/release/arafa16/rwid-github-actions "Release")](https://github.com/arafa16/rwid-github-actions/releases)
 [![Test Status](https://github.com/arafa16/rwid-github-actions/actions/workflows/main.yml/badge.svg "Test Status")](https://github.com/arafa16/rwid-github-actions/actions/workflows/main.yml)
-[![Coverage Status](https://codecov.io/github/arafa16/rwid-github-actions/graph/badge.svg?token=IG5MQONGO8 "Coverage Status")](https://codecov.io/github/ngodingbang/rwid-github-actions)
+[![Coverage Status](https://codecov.io/github/arafa16/rwid-github-actions/graph/badge.svg?token=IG5MQONGO8 "Coverage Status")](https://codecov.io/github/arafa16/rwid-github-actions)
 
 Learn CI/CD on GitHub Actions using TypeScript.
 
