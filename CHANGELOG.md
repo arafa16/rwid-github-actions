@@ -8,6 +8,7 @@ All notable changes to `RWID GitHub Actions` will be documented in this file.
 
 - fix: set type variable at port by [@arafa16](https://github.com/arafa16) in [#145062f](https://github.com/arafa16/rwid-github-actions/commit/145062f3a2f240091ffbb71a18b89a144fdbcca1).
 - fix: change link for check coverage status by [@arafa16](https://github.com/arafa16) in [#94a156e](https://github.com/arafa16/rwid-github-actions/commit/94a156e90c0cd747dd52cbe28e721ded82679c21).
+- fix: change node version in README.md and change tag vasion release by [@arafa16](https://github.com/arafa16) in [#c583a83](https://github.com/arafa16/rwid-github-actions/commit/c583a8382f0b71a07bc7ef7438cedbe82c78f3c2).
 
 
 ## [1.3.0](https://github.com/arafa16/rwid-github-actions/releases/tag/1.3.0) - 2025-04-03
