@@ -22,7 +22,7 @@ This code was developed with TypeScript.
 
 ## Requirement
 
-- [![Node.js](https://img.shields.io/badge/Node.js%20^18.16.0-43853D?logo=node.js&logoColor=white "Node.js")](https://nodejs.org)
+- [![Node.js](https://img.shields.io/badge/Node.js%20^22.11.0-43853D?logo=node.js&logoColor=white "Node.js")](https://nodejs.org)
 
 ## Installation
 
