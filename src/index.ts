@@ -4,7 +4,7 @@ import express, { Express, NextFunction, Request, Response } from "express";
 dotenv.config();
 
 const app: Express = express();
-const port = process.env.PORT || 3000;
+const port: String = process.env.PORT || "3000";
 
 app.get(
   "/",
